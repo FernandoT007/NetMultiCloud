@@ -1,0 +1,119 @@
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.deps.json
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.AssemblyReference.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfoInputs.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.cs
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.8EE600F9.Up2Date
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\refint\Docentes.Infrastructure.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\ref\Docentes.Infrastructure.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.deps.json
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.pdb
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.pdb
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.AssemblyReference.cache
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfoInputs.cache
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.cs
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.CoreCompileInputs.cache
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.8EE600F9.Up2Date
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\refint\Docentes.Infrastructure.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.pdb
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\ref\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\refint\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.deps.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.8EE600F9.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\ref\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.deps.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.8EE600F9.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\refint\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\ref\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.deps.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.8EE600F9.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\refint\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\ref\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\refint\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.deps.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.8EE600F9.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\ref\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\refint\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.deps.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.8EE600F9.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\ref\Docentes.Infrastructure.dll

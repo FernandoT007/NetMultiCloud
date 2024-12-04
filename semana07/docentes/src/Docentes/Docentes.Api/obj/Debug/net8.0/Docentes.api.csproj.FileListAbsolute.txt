@@ -1,0 +1,875 @@
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\appsettings.json
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.api.exe
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.api.deps.json
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.api.runtimeconfig.json
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.api.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.api.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Dapper.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Humanizer.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\MediatR.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Npgsql.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.Application.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.Domain.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.Application.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.csproj.AssemblyReference.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.AssemblyInfoInputs.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.cs
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.csproj.CoreCompileInputs.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\staticwebassets\msbuild.Docentes.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Docentes.api.props
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Docentes.api.props
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Docentes.api.props
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\scopedcss\bundle\Docentes.api.styles.css
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.023C05E0.Up2Date
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\refint\Docentes.api.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.genruntimeconfig.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\ref\Docentes.api.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.Development.json
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.json
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.exe
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.deps.json
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.runtimeconfig.json
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.pdb
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Dapper.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Humanizer.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.Contracts.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Mono.TextTemplating.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.CodeDom.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Convention.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Hosting.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Runtime.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.pdb
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.pdb
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.AssemblyReference.cache
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.GeneratedMSBuildEditorConfig.editorconfig
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfoInputs.cache
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.cs
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.CoreCompileInputs.cache
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cs
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cache
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.build.json
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.development.json
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.Docentes.api.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.build.Docentes.api.props
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Docentes.api.props
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Docentes.api.props
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\scopedcss\bundle\Docentes.api.styles.css
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.023C05E0.Up2Date
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\refint\Docentes.api.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.pdb
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.genruntimeconfig.cache
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\ref\Docentes.api.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+d:\Temp\Practica 9\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\refint\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.exe
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.deps.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.runtimeconfig.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Dapper.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.Docentes.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.build.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\scopedcss\bundle\Docentes.api.styles.css
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.023C05E0.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.genruntimeconfig.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana08\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\ref\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.exe
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.deps.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.runtimeconfig.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Dapper.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.Docentes.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.build.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\scopedcss\bundle\Docentes.api.styles.css
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.023C05E0.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\refint\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.genruntimeconfig.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana09\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\ref\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.exe
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.deps.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.runtimeconfig.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Dapper.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.Docentes.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.build.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\scopedcss\bundle\Docentes.api.styles.css
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.023C05E0.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\refint\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.genruntimeconfig.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana10\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\ref\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\refint\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.Api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.exe
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.deps.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.runtimeconfig.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Dapper.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.Docentes.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.build.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\scopedcss\bundle\Docentes.api.styles.css
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.023C05E0.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.genruntimeconfig.cache
+D:\OneDrive\Trabajo\TecyLab\NET_Cloud_2024\Semana12\Docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\ref\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\refint\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.exe
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.deps.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.runtimeconfig.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.api.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Dapper.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\bin\Debug\net8.0\Docentes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.Docentes.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.build.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Docentes.api.props
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\scopedcss\bundle\Docentes.api.styles.css
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.023C05E0.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.genruntimeconfig.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana07\practica\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\ref\Docentes.api.dll
