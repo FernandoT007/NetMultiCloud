@@ -1,0 +1,17 @@
+û
+íD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.csutf-8•
+ôD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8†
+îD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GlobalUsings.g.csutf-8}
+tD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Services\UsuarioService.csutf-8|
+sD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Services\CursosService.csutf-8{
+rD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Services\CacheService.csutf-8}
+tD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Repositories\Repository.csutf-8Ñ
+{D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Repositories\DocenteRepository.csutf-8å
+ÇD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Repositories\CursoImpartidoRepository.csutf-8ï
+âD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Migrations\ApplicationDbContextModelSnapshot.csutf-8ô
+çD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Migrations\20240625225153_InitialCreate.Designer.csutf-8é
+ÑD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Migrations\20240625225153_InitialCreate.csutf-8y
+pD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\DependencyInjection.csutf-8ã
+ÅD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Configurations\DocenteConfigurations.csutf-8î
+äD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Configurations\CursosImpartidosConfigurations.csutf-8z
+qD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\ApplicationDbContext.csutf-8

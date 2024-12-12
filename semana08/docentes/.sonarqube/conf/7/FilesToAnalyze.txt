@@ -1,0 +1,9 @@
+﻿D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\Abstractions\Entity.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\Abstractions\Error.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\Abstractions\IUnitOfWork.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\Abstractions\Result.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\CursosImpartidos\CursoImpartido.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\CursosImpartidos\ICursoImpartidoRepository.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\Docentes\Docente.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\Docentes\DocenteErrors.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\Docentes\IDocenteRepository.cs

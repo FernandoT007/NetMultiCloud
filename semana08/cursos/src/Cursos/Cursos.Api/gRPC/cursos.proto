@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "Cursos.Api.gRPC";
+
+service CursosService {
+    rpc CursoExists(CursoRequest) returns (CursoResponse);
+}
+
+message CursoRequest{
+    string cursoId = 1;
+}
+
+message CursoResponse{
+    bool exists = 1;
+}

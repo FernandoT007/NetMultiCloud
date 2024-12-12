@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Domain\Docentes.Domain.csproj
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Docentes.Infrastructure.csproj
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Docentes.api.csproj
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Application\Docentes.Application.csproj
+
+
+Test projects
+---------------------------------------
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\test\Docentes.Application.Test\Docentes.Application.Test.csproj
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\test\Docentes.Domain.Test\Docentes.Domain.Test.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

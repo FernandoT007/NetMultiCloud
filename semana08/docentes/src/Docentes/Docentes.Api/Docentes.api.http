@@ -1,0 +1,6 @@
+@Docentes.api_HostAddress = http://localhost:5185
+
+GET {{Docentes.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

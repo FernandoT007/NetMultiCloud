@@ -1,0 +1,11 @@
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.deps.json
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\bin\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfoInputs.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.cs
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\refint\Docentes.Infrastructure.dll
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.pdb
+D:\Temp\Practica 8\Docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\ref\Docentes.Infrastructure.dll

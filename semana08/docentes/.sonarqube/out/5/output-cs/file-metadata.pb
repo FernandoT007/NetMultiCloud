@@ -1,0 +1,11 @@
+õ
+èD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.csutf-8á
+|D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.csutf-8ö
+éD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8â
+~D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.GlobalUsings.g.csutf-8b
+YD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Program.csutf-8Å
+xD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Middleware\ExceptionHandlingMiddleware.csutf-8Ç
+yD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Extensions\ApplicationBuilderExtensions.csutf-8Å
+xD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Controllers\Docentes\DocenteController.csutf-8É
+zD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Controllers\Docentes\CrearDocenteRequest.csutf-8ì
+âD:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Controllers\CursosImpartidos\CursosImpartidosController.csutf-8

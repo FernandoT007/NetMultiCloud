@@ -1,0 +1,2 @@
+obj\Debug\net8.0\gRPC/Cursos.cs \
+obj\Debug\net8.0\gRPC/CursosGrpc.cs: gRPC/cursos.proto

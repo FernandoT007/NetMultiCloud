@@ -1,0 +1,14 @@
+﻿D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Controllers\CursosImpartidos\CursosImpartidosController.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Controllers\Docentes\CrearDocenteRequest.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Controllers\Docentes\DocenteController.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Extensions\ApplicationBuilderExtensions.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Middleware\ExceptionHandlingMiddleware.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Program.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.GlobalUsings.g.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\appsettings.Development.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\appsettings.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Docentes.api.http
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.api\Properties\launchSettings.json

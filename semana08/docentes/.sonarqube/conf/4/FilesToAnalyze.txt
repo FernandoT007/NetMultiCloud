@@ -1,0 +1,13 @@
+﻿D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\ApplicationDbContext.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Configurations\CursosImpartidosConfigurations.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Configurations\DocenteConfigurations.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\DependencyInjection.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Migrations\20240625225153_InitialCreate.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Migrations\20240625225153_InitialCreate.Designer.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Migrations\ApplicationDbContextModelSnapshot.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Repositories\CursoImpartidoRepository.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Repositories\DocenteRepository.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Repositories\Repository.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Services\CacheService.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Services\CursosService.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana08\docentes\src\Docentes\Docentes.Infrastructure\Services\UsuarioService.cs
