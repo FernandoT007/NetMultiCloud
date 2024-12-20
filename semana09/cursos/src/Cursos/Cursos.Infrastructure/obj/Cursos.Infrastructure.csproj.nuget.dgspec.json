@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Infrastructure\\Cursos.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Application\\Cursos.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Application\\Cursos.Application.csproj",
+        "projectName": "Cursos.Application",
+        "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Application\\Cursos.Application.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Domain\\Cursos.Domain.csproj": {
+                "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Domain\\Cursos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Domain\\Cursos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Domain\\Cursos.Domain.csproj",
+        "projectName": "Cursos.Domain",
+        "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Domain\\Cursos.Domain.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Infrastructure\\Cursos.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Infrastructure\\Cursos.Infrastructure.csproj",
+        "projectName": "Cursos.Infrastructure",
+        "projectPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Infrastructure\\Cursos.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Application\\Cursos.Application.csproj": {
+                "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\cursos\\src\\Cursos\\Cursos.Application\\Cursos.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.5.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.26.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Serilog.Sinks.Graylog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

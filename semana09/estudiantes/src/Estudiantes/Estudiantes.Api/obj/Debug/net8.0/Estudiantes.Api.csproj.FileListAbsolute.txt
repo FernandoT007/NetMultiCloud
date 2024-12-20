@@ -1,0 +1,521 @@
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.exe
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.deps.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.runtimeconfig.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\MediatR.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Npgsql.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.Estudiantes.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Estudiantes.Api.props
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Estudiantes.Api.props
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Estudiantes.Api.props
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\scopedcss\bundle\Estudiantes.Api.styles.css
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudian.3DA3C42E.Up2Date
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\refint\Estudiantes.Api.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.genruntimeconfig.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\ref\Estudiantes.Api.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\appsettings.json
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.exe
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.deps.json
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.runtimeconfig.json
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.pdb
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Humanizer.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\MediatR.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Npgsql.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Application.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Domain.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Infrastructure.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Infrastructure.pdb
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Application.pdb
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Domain.pdb
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.csproj.AssemblyReference.cache
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.AssemblyInfoInputs.cache
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.AssemblyInfo.cs
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.csproj.CoreCompileInputs.cache
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.Estudiantes.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Estudiantes.Api.props
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Estudiantes.Api.props
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Estudiantes.Api.props
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\scopedcss\bundle\Estudiantes.Api.styles.css
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudian.3DA3C42E.Up2Date
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\refint\Estudiantes.Api.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.pdb
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.genruntimeconfig.cache
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\ref\Estudiantes.Api.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.exe
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.deps.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.runtimeconfig.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\MediatR.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Npgsql.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Infrastructure.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Infrastructure.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.Estudiantes.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Estudiantes.Api.props
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Estudiantes.Api.props
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Estudiantes.Api.props
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\scopedcss\bundle\Estudiantes.Api.styles.css
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudian.3DA3C42E.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\refint\Estudiantes.Api.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.genruntimeconfig.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\ref\Estudiantes.Api.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.Graylog.Core.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.Graylog.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\appsettings.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.exe
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.deps.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.runtimeconfig.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Api.pdb
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Humanizer.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\MediatR.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Npgsql.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Application.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Domain.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Infrastructure.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Infrastructure.pdb
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Application.pdb
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Estudiantes.Domain.pdb
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.csproj.AssemblyReference.cache
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.AssemblyInfoInputs.cache
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.AssemblyInfo.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.csproj.CoreCompileInputs.cache
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.sourcelink.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.Estudiantes.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Estudiantes.Api.props
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Estudiantes.Api.props
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Estudiantes.Api.props
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\scopedcss\bundle\Estudiantes.Api.styles.css
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudian.3DA3C42E.Up2Date
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\refint\Estudiantes.Api.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.pdb
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\Estudiantes.Api.genruntimeconfig.cache
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\obj\Debug\net8.0\ref\Estudiantes.Api.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.Graylog.Core.dll
+d:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Api\bin\Debug\net8.0\Serilog.Sinks.Graylog.dll

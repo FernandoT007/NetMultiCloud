@@ -1,0 +1,120 @@
+    services:
+
+      usuarios:
+        container_name: ms-usuarios-container
+        build: 
+          context: ./usuarios
+          dockerfile: Dockerfile
+        image: ms-usuarios-docker
+        networks:
+          - microservices-network
+        ports:
+          - "7777:7777"
+    
+      cursos:
+        container_name: ms-cursos-container
+        build: 
+          context: ./cursos
+          dockerfile: Dockerfile
+        image: ms-cursos-docker
+        networks:
+          - microservices-network
+        ports:
+          - "9999:9999"
+          - "5001:5001"
+
+      docentes:
+        container_name: ms-docentes-container
+        build: 
+          context: ./docentes
+          dockerfile: Dockerfile
+        image: ms-docentes-docker
+        networks:
+          - microservices-network
+        ports:
+          - "8888:8888"
+        
+      mongodb:
+        image: mongo:7.0
+        container_name: graylog-mongo
+        networks:
+          - microservices-network
+        volumes:
+          - mongo_data:/data/db
+        healthcheck:
+          test: "mongo --eval 'db.runCommand({ ping: 1 })'"
+          interval: 10s
+          timeout: 5s
+          retries: 5
+    
+      elasticsearch:
+        image: docker.elastic.co/elasticsearch/elasticsearch:7.10.0
+        container_name: graylog-elasticsearch
+        environment:
+          - discovery.type=single-node
+          - ES_JAVA_OPTS=-Xms512m -Xmx512m
+          - xpack.security.enabled=false
+        ulimits:
+          nofile:
+            soft: 65536
+            hard: 65536
+        networks:
+          - microservices-network
+        volumes:
+          - es_data:/usr/share/elasticsearch/data
+        healthcheck:
+          test: "curl --fail http://localhost:9200/_cluster/health?wait_for_status=green&timeout=50s || exit 1"
+          interval: 30s
+          timeout: 10s
+          retries: 10
+        ports:
+          - "9200:9200"
+
+      graylog:
+        image: graylog/graylog:6.0
+        container_name: graylog
+        depends_on:
+          - mongodb
+          - elasticsearch
+        environment:
+          - GRAYLOG_PASSWORD_SECRET=yourpasswordsecret
+          - GRAYLOG_ROOT_PASSWORD_SHA2=8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
+          - GRAYLOG_HTTP_EXTERNAL_URI=http://localhost:9000/
+          - GRAYLOG_MONGODB_URI=mongodb://mongodb:27017/graylog
+          - GRAYLOG_ELASTICSEARCH_HOSTS=http://graylog-elasticsearch:9200
+        entrypoint: >
+          sh -c '
+            until curl -s http://elasticsearch:9200/_cluster/health?wait_for_status=yellow; do
+              echo "Waiting for Elasticsearch...";
+              sleep 5;
+            done;
+            /docker-entrypoint.sh'
+        networks:
+          - microservices-network
+        ports:
+          - "9000:9000"
+          - "12201:12201/udp"
+        volumes:
+          - graylog_data:/usr/share/graylog/data
+
+      kibana:
+        image: docker.elastic.co/kibana/kibana:7.10.0
+        container_name: kibana
+        environment:
+          - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+        networks:
+          - microservices-network
+        ports:
+          - "5601:5601"  # Interfaz de Kibana
+        depends_on:
+          - elasticsearch
+
+    networks:
+      microservices-network:
+        name: microservices-network
+        driver : bridge
+
+    volumes:
+      mongo_data:
+      es_data:
+      graylog_data:

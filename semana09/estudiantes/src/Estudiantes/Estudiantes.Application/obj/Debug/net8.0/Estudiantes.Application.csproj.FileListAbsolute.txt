@@ -1,0 +1,61 @@
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.deps.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudian.2CE2ACAB.Up2Date
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\refint\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\ref\Estudiantes.Application.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.deps.json
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.pdb
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.pdb
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.AssemblyReference.cache
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfoInputs.cache
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfo.cs
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.CoreCompileInputs.cache
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudian.2CE2ACAB.Up2Date
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\refint\Estudiantes.Application.dll
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.pdb
+D:\Temp\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\ref\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.deps.json
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudian.2CE2ACAB.Up2Date
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\refint\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\NETMULTICLOUD\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\ref\Estudiantes.Application.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.deps.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.pdb
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.pdb
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.AssemblyReference.cache
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfoInputs.cache
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfo.cs
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.CoreCompileInputs.cache
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.sourcelink.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudian.2CE2ACAB.Up2Date
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\refint\Estudiantes.Application.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.pdb
+D:\Git\NetMultiCloud\NetMultiCloud\semana09\estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\ref\Estudiantes.Application.dll
