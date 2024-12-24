@@ -1,0 +1,9 @@
+D:\Git\NetMultiCloud\NetMultiCloud\semana10\SedesLambda\src\SedesLambda\bin\Release\net8.0\publish\SedesLambda.deps.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana10\SedesLambda\src\SedesLambda\bin\Release\net8.0\publish\SedesLambda.runtimeconfig.json
+D:\Git\NetMultiCloud\NetMultiCloud\semana10\SedesLambda\src\SedesLambda\bin\Release\net8.0\publish\SedesLambda.pdb
+D:\Git\NetMultiCloud\NetMultiCloud\semana10\SedesLambda\src\SedesLambda\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana10\SedesLambda\src\SedesLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana10\SedesLambda\src\SedesLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana10\SedesLambda\src\SedesLambda\bin\Release\net8.0\publish\AWSSDK.Core.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana10\SedesLambda\src\SedesLambda\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+D:\Git\NetMultiCloud\NetMultiCloud\semana10\SedesLambda\src\SedesLambda\bin\Release\net8.0\publish\SedesLambda.dll

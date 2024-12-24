@@ -54,7 +54,13 @@
           - discovery.type=single-node
           - ES_JAVA_OPTS=-Xms512m -Xmx512m
           - xpack.security.enabled=false
+          - cluster.name=docker-cluster
+          - bootstrap.memory_lock=true
+          - logger.level=INFO
         ulimits:
+          memlock:
+            soft: -1
+            hard: -1
           nofile:
             soft: 65536
             hard: 65536
@@ -63,7 +69,7 @@
         volumes:
           - es_data:/usr/share/elasticsearch/data
         healthcheck:
-          test: "curl --fail http://localhost:9200/_cluster/health?wait_for_status=green&timeout=50s || exit 1"
+          test: "curl --fail http://graylog-elasticsearch:9200/_cluster/health?wait_for_status=green&timeout=20s || exit 1"
           interval: 30s
           timeout: 10s
           retries: 10
@@ -84,7 +90,7 @@
           - GRAYLOG_ELASTICSEARCH_HOSTS=http://graylog-elasticsearch:9200
         entrypoint: >
           sh -c '
-            until curl -s http://elasticsearch:9200/_cluster/health?wait_for_status=yellow; do
+            until curl -s http://graylog-elasticsearch:9200/_cluster/health?wait_for_status=yellow; do
               echo "Waiting for Elasticsearch...";
               sleep 5;
             done;
@@ -101,7 +107,7 @@
         image: docker.elastic.co/kibana/kibana:7.10.0
         container_name: kibana
         environment:
-          - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+          - ELASTICSEARCH_HOSTS=http://graylog-elasticsearch:9200
         networks:
           - microservices-network
         ports:
