@@ -1,0 +1,123 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: 'SAM Template for Sedes Lambda API
+
+  '
+Globals:
+  Function:
+    Timeout: 100
+    MemorySize: 1024
+    LoggingConfig:
+      LogFormat: JSON
+Resources:
+  CognitoUserPool:
+    Type: AWS::Cognito::UserPool
+    Properties:
+      UserPoolName: SedesUserPool
+      AutoVerifiedAttributes:
+      - email
+      UsernameAttributes:
+      - email
+    Metadata:
+      SamResourceId: CognitoUserPool
+  CognitoUserPoolClient:
+    Type: AWS::Cognito::UserPoolClient
+    Properties:
+      ClientName: SedesAppClient
+      UserPoolId:
+        Ref: CognitoUserPool
+      GenerateSecret: true
+      AllowedOAuthFlows:
+      - client_credentials
+      CallbackURLs:
+      - http://localhost
+      LogoutURLs:
+      - http://localhost
+    Metadata:
+      SamResourceId: CognitoUserPoolClient
+  SedesApi:
+    Type: AWS::Serverless::HttpApi
+    Properties:
+      CorsConfiguration:
+        AllowOrigins:
+        - '*'
+        AllowHeaders:
+        - Authorization
+        AllowMethods:
+        - GET
+        - POST
+      Auth:
+        DefaultAuthorizer: CognitoAuthorizer
+        Authorizers:
+          CognitoAuthorizer:
+            JwtConfiguration:
+              issuer:
+                Fn::Sub: https://cognito-idp.${AWS::Region}.amazonaws.com/${CognitoUserPool}
+              audience:
+              - Ref: CognitoUserPoolClient
+            IdentitySource: $request.header.Authorization
+    Metadata:
+      SamResourceId: SedesApi
+  SedesLambdaFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Description: Lambda function for Sedes API with DynamoDB and S3 integration.
+      CodeUri: s3://s3-sedes-despliegues/965fd609d06fe0ca305075da3bf4e32d
+      Handler: ServerlessAPI
+      Runtime: dotnet8
+      Environment:
+        Variables:
+          ASPNETCORE_ENVIRONMENT: Production
+      Policies:
+      - DynamoDBCrudPolicy:
+          TableName:
+            Ref: SedesTable
+      - S3CrudPolicy:
+          BucketName: sedes-images-bucket
+      - Statement:
+          Effect: Allow
+          Action:
+          - ses:SendEmail
+          Resource: '*'
+      Events:
+        SedesApiPost:
+          Type: HttpApi
+          Properties:
+            ApiId:
+              Ref: SedesApi
+            PayloadFormatVersion: '2.0'
+            Path: /api/sedes
+            Method: POST
+        SedesApiGet:
+          Type: HttpApi
+          Properties:
+            ApiId:
+              Ref: SedesApi
+            PayloadFormatVersion: '2.0'
+            Path: /api/sedes/{id}
+            Method: GET
+    Metadata:
+      SamResourceId: SedesLambdaFunction
+  SedesTable:
+    Type: AWS::Serverless::SimpleTable
+    Properties:
+      TableName: Sedes
+      PrimaryKey:
+        Name: Id
+        Type: String
+      ProvisionedThroughput:
+        ReadCapacityUnits: 5
+        WriteCapacityUnits: 5
+    Metadata:
+      SamResourceId: SedesTable
+  SedesImagesBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: sedes-images-bucket
+    Metadata:
+      SamResourceId: SedesImagesBucket
+Outputs:
+  ApiEndpoint:
+    Description: API Gateway endpoint URL
+    Value:
+      Fn::Sub: https://${SedesApi}.execute-api.${AWS::Region}.amazonaws.com/

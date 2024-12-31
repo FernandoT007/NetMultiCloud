@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SedesLambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e1a8b25b6e455e0c628b79ec4c0a607e3c0f55b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+566dcf956a78294d17a805628101c3d9350f6e36")]
 [assembly: System.Reflection.AssemblyProductAttribute("SedesLambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SedesLambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
