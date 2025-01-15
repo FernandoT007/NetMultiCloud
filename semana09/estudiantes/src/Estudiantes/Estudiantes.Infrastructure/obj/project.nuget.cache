@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Vv2OnoVHDA=",
+  "dgSpecHash": "ddcBvpjIWcM=",
   "success": true,
-  "projectFilePath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj",
+  "projectFilePath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\efcore.namingconventions\\8.0.3\\efcore.namingconventions.8.0.3.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",

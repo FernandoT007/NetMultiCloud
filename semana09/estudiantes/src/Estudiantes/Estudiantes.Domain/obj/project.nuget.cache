@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ebh26hNhKdE=",
+  "dgSpecHash": "8cSrQ4JNU5U=",
   "success": true,
-  "projectFilePath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj",
+  "projectFilePath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\Estudiantes.Api.csproj": {}
+    "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\Estudiantes.Api.csproj": {}
   },
   "projects": {
-    "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\Estudiantes.Api.csproj": {
+    "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\Estudiantes.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\Estudiantes.Api.csproj",
+        "projectUniqueName": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\Estudiantes.Api.csproj",
         "projectName": "Estudiantes.Api",
-        "projectPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\Estudiantes.Api.csproj",
+        "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\Estudiantes.Api.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\obj\\",
+        "outputPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -36,8 +36,8 @@
               "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Application\\Estudiantes.Application.csproj": {
                 "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Application\\Estudiantes.Application.csproj"
               },
-              "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj": {
-                "projectPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj"
+              "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj": {
+                "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj"
               }
             }
           }
@@ -130,8 +130,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj": {
-                "projectPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj"
+              "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj": {
+                "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj"
               }
             }
           }
@@ -184,14 +184,14 @@
         }
       }
     },
-    "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj": {
+    "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj",
+        "projectUniqueName": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj",
         "projectName": "Estudiantes.Domain",
-        "projectPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj",
+        "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\obj\\",
+        "outputPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -255,14 +255,14 @@
         }
       }
     },
-    "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj": {
+    "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj",
         "projectName": "Estudiantes.Infrastructure",
-        "projectPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj",
+        "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\Estudiantes.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\obj\\",
+        "outputPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

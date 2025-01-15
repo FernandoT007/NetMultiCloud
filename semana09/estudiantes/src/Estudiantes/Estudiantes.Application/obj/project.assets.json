@@ -337,8 +337,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj": {
-              "projectPath": "d:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj"
+            "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj": {
+              "projectPath": "D:\\Git\\NetMultiCloud\\NetMultiCloud\\semana09\\estudiantes\\src\\Estudiantes\\Estudiantes.Domain\\Estudiantes.Domain.csproj"
             }
           }
         }
